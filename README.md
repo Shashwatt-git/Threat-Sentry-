@@ -1,5 +1,5 @@
 # Threat Sentry
-![Threat Sentry Web Interface](assets/threat-sentry-ui.png)
+![Threat Sentry Web Interface](assets\threat-sentry-ui.png)
 
 
 
