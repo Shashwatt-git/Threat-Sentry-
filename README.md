@@ -1,5 +1,5 @@
 # Threat Sentry
-![Threat Sentry Web Interface](assets/threat-sentry-ui.png)
+![Threat Sentry Web Interface](assets\threat-sentry-ui.png.png)
 
 
 Threat Sentry is a cybersecurity incident response testing tool that utilizes large language models in conjunction with the MITRE ATT&CK framework. It generates customized incident response scenarios based on selected threat actor groups and the specific details of your organization.
